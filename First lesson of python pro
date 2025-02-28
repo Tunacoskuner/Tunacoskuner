@@ -1,0 +1,13 @@
+meme_dict = {
+            "CRINGE": "Something strange or embarrassing",
+            "LOL": "Response to something funny",
+            "ROFL": "Response to a joke",
+            "SHEESH":"disapprove",
+            "CREEPY": "scary",
+            "AGGRO":"getting aggressive/angry",
+            }
+word = input("Write a word you don't understand (in all capital letters!): ")
+if word in meme_dict.keys():
+    print(word + ":" + meme_dict[word])
+else:
+    print("Sorry, I dunno this word meaning.")
