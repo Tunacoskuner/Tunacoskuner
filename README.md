@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Ubisoft
 - 📫 How to reach me (I don't know too)
 - 😄 Pronouns: ...
-- ⚡fact: I want to get contact with Ubisoft to make a new Assasin's Creed Game
+- ⚡fact: I want to get contact with Ubisoft to make a new Ghost Recon game
+- 
 
 <!---
 Tunacoskuner/Tunacoskuner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
